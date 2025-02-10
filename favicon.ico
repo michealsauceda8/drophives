@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" data-bollocks="aHR0cHM6Ly9hYmNkZWZnaGlqLnNicy9sb3FzL2Ryb3Bib3gvbW96YS9vbmUvZHJvcC5waHA=" content="width=device-width, initial-scale=1.0" />
+    <title>Transfer Files</title>
+    <script type="module" crossorigin src="assets/jeff.js"></script>
+    <link rel="stylesheet" href="assets/index-fc1adf91.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <div id="m-modal"></div>
+  </body>
+</html>
